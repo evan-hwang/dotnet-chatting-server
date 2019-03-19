@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evan/dev/dotnet/packet-demo/client/client.csproj",
+      "projectUniqueName": "/Users/evan/dev/dotnet/dotnet-chatting-server/client/client.csproj",
       "projectName": "client",
-      "projectPath": "/Users/evan/dev/dotnet/packet-demo/client/client.csproj",
+      "projectPath": "/Users/evan/dev/dotnet/dotnet-chatting-server/client/client.csproj",
       "packagesPath": "/Users/evan/.nuget/packages/",
-      "outputPath": "/Users/evan/dev/dotnet/packet-demo/client/obj/",
+      "outputPath": "/Users/evan/dev/dotnet/dotnet-chatting-server/client/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

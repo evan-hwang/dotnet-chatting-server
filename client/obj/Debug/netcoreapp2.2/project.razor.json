@@ -1,5 +1,5 @@
 {
-  "ProjectFilePath": "/Users/evan/dev/dotnet/packet-demo/client/client.csproj",
+  "ProjectFilePath": "/Users/evan/dev/dotnet/dotnet-chatting-server/client/client.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
   "Configuration": {
