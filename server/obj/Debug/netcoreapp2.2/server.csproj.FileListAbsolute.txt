@@ -1,0 +1,11 @@
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.csprojAssemblyReference.cache
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.csproj.CoreCompileInputs.cache
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.AssemblyInfoInputs.cache
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.AssemblyInfo.cs
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/bin/Debug/netcoreapp2.2/server.deps.json
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/bin/Debug/netcoreapp2.2/server.runtimeconfig.json
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/bin/Debug/netcoreapp2.2/server.runtimeconfig.dev.json
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/bin/Debug/netcoreapp2.2/server.dll
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/bin/Debug/netcoreapp2.2/server.pdb
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.dll
+/Users/evan/dev/dotnet/dotnet-chatting-server/server/obj/Debug/netcoreapp2.2/server.pdb
