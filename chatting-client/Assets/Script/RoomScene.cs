@@ -10,7 +10,7 @@ public class RoomScene : MonoBehaviour {
 	private List<IRoom> _rooms;
 
 	void Start() {
-		this.CreateRoomAsync();
+		this.GetRoomsAsync();
 	}
 
 	public void CreateRoomAsync() {

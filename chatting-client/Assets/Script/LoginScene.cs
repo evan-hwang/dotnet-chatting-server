@@ -17,18 +17,18 @@ public class LoginScene : MonoBehaviour {
 	public void OnClickedStartBtn() {
 		GameManager.Instance.SetUserName(userName.text);
 
-		var payload = new LoginPayload {
-			username = userName.text
-		}; 
+		// var payload = new LoginPayload {
+		// 	username = userName.text
+		// }; 
 		
-		Debug.Log(JsonConvert.SerializeObject(payload));
-		var pkt = new Protocol.JsonPacket {
-			Code = "login",
-			Payload = payload
-		};
+		// Debug.Log(JsonConvert.SerializeObject(payload));
+		// var pkt = new Protocol.JsonPacket {
+		// 	Code = "login",
+		// 	Payload = payload
+		// };
 
 		NetworkManager.Instance.Connect();
-		NetworkManager.Instance.Send(pkt);
+		// NetworkManager.Instance.Send(pkt);
 		SceneManager.LoadScene("RoomScene");
 	}
 }
