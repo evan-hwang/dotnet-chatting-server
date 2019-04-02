@@ -616,7 +616,7 @@ PlayerSettings:
   cloudServicesEnabled:
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 01ae9f1c-a51d-439b-a498-53344a4b59bf
   projectName: chatting-client
   organizationId: hwang-3811196
